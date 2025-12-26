@@ -1,0 +1,1 @@
+# foum-zguid-discovery-camp1
