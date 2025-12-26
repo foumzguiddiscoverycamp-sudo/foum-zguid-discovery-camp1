@@ -1,0 +1,12 @@
+foumzguid-discovery-camp/
+├── src/
+│   ├── App.tsx
+│   ├── components/
+│   └── utils/
+├── public/
+│   └── index.html
+├── package.json
+├── tsconfig.json
+├── tailwind.config.js
+├── vite.config.ts
+└── vercel.json

@@ -1,10 +1,7 @@
-# إذا لم تكن مثبت Git
-# قم بتنزيله من git-scm.com
-
-# افتح Terminal/CMD في مجلد مشروعك
-git init
-git add .
-git commit -m "Initial commit - Foum Zguid Discovery Camp"
-git branch -M main
-git remote add origin https://github.com/username/foumzguid-discovery-camp.git
-git push -u origin main
+# استنساخ المشروع القالب
+git clone https://github.com/your-username/react-vercel-template.git foumzguid-discovery-camp
+cd foumzguid-discovery-camp
+# استبدل ملف App.tsx بالكود الخاص بك
+npm install
+npm run build
+git push origin main
